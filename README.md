@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning and I am excited to start the journey. 
 <!--
 **carine1973/carine1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
